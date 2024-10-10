@@ -7,7 +7,7 @@
 <!--Introduce yourself !!-->
 <h1 align="center">Hi 👋, I'm Sonu Abraham</h1>
 <h3 align="center"> Data Explorer | UofT DSI </h3>
-### :woman_technologist: &nbsp;About Me :
+ :woman_technologist: &nbsp;About Me :
 
 <!-- Subheading that Describes Roles and Interests -->
 
