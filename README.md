@@ -6,7 +6,7 @@
 
 <!--Introduce yourself !!-->
 <h1 align="center">Hi 👋, I'm Sonu Abraham</h1>
-<h3 align="center"> Data Explorer | UofT DSI </h3>
+<h3 align="center"> Data Enthusiast | UofT DSI </h3>
  :woman_technologist: &nbsp;About Me :
 
 <!-- Subheading that Describes Roles and Interests -->
@@ -14,6 +14,8 @@
 - I am currently pursuing a Data Science  Foundation Certificate at DSI, diving deep into the world of data. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - Experienced in SAP SD and testing within the retail and eCommerce industry
+
+- I am currently learning Shell, Git, Python, SQL, Applying Statistical Concepts
 
 - 📫 You can reach me at *sonu90abraham@gmail.com* 
 
