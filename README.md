@@ -1,4 +1,4 @@
-# github-portfolio
+
 <!-- Centering an Image and Enlarging it-->
 
 <!--Displaying GitHub Profile View Counter -->
@@ -11,11 +11,21 @@
 
 <!-- Subheading that Describes Roles and Interests -->
 
-- I am currently pursuing a Data Science  Foundation Certificate at DSI, diving deep into the world of data. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- I am Sonu Abraham, an aspiring data analyst with a strong foundation in Data Science. With a Data Science Certificate from the University of Toronto, I’ve developed solid skills in data analysis, statistical modeling, and data visualization. My experience includes SAP SD testing in retail and eCommerce projects, where I helped ensure process efficiency and data accuracy. I am now focused on applying my data science training to turn raw data into actionable insights and drive business decisions.
 
-- Experienced in SAP SD and testing within the retail and eCommerce industry
+🔍 Key Skills:
+- Data Analysis & Visualization - Proficient in Python (pandas, matplotlib, seaborn), Shell
+- SQL 
+- Version Control with Git/GitHub
+- Statistical analysis and machine learning
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+  
+🎓 Credentials:
 
-- I am currently learning Shell, Git, Python, SQL, Applying Statistical Concepts
+- Data Science Certificate, University of Toronto
+- Bachelor’s in Computer Science and Technology
+  
+ 
 
 - 📫 You can reach me at *sonu90abraham@gmail.com* 
 
