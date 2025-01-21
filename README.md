@@ -7,11 +7,13 @@
 <!--Introduce yourself !!-->
 <h1 align="center">Hi 👋, I'm Sonu Abraham</h1>
 <h3 align="center"> Data Enthusiast | UofT DSI </h3>
- :woman_technologist: &nbsp;About Me :
+ :woman_technologist: &nbsp;**About Me :**
 
 <!-- Subheading that Describes Roles and Interests -->
 
 - I am an aspiring data analyst with a strong foundation in Data Science backed by a **Data Science Certificate** from the University of Toronto, I have honed my skills in data analysis, statistical modeling, and data visualization and I am eager to apply this knowledge in real-world settings. My experience also includes SAP SD testing within retail and eCommerce projects,ensuring data accuracy and process efficiency.
+
+  
 
 🔍 **Key Skills:**
 - Data Analysis & Visualization - Proficient in Python (pandas, matplotlib, seaborn), Shell
@@ -19,12 +21,16 @@
 - Version Control with Git/GitHub
 - Statistical analysis and machine learning
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+
+  
   
 🎓 **Credentials:**
 
 - **Data Science Certificate**, University of Toronto
 - **Bachelor’s in Computer Science and Technology**
   
+
  
 
 - 📫 You can **reach me at** *sonu90abraham@gmail.com* 
