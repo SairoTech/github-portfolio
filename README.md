@@ -33,7 +33,7 @@
 
  
 
-- 📫 You can **reach me at** *sonu90abraham@gmail.com* 
+📫 You can **reach me at** *sonu90abraham@gmail.com* 
 
 <!-- Adding a LinkedIn Badge -->
 <p align="center">
