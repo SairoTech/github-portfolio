@@ -11,23 +11,23 @@
 
 <!-- Subheading that Describes Roles and Interests -->
 
-- I am Sonu Abraham, an aspiring data analyst with a strong foundation in Data Science. With a Data Science Certificate from the University of Toronto, I’ve developed solid skills in data analysis, statistical modeling, and data visualization. My experience includes SAP SD testing in retail and eCommerce projects, where I helped ensure process efficiency and data accuracy. 
+- I am an aspiring data analyst with a strong foundation in Data Science backed by a **Data Science Certificate** from the University of Toronto, I have honed my skills in data analysis, statistical modeling, and data visualization and I am eager to apply this knowledge in real-world settings. My experience also includes SAP SD testing within retail and eCommerce projects,ensuring data accuracy and process efficiency.
 
-🔍 Key Skills:
+🔍 **Key Skills:**
 - Data Analysis & Visualization - Proficient in Python (pandas, matplotlib, seaborn), Shell
 - SQL 
 - Version Control with Git/GitHub
 - Statistical analysis and machine learning
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
   
-🎓 Credentials:
+🎓 **Credentials:**
 
-- Data Science Certificate, University of Toronto
-- Bachelor’s in Computer Science and Technology
+- **Data Science Certificate**, University of Toronto
+- **Bachelor’s in Computer Science and Technology**
   
  
 
-- 📫 You can reach me at *sonu90abraham@gmail.com* 
+- 📫 You can **reach me at** *sonu90abraham@gmail.com* 
 
 <!-- Adding a LinkedIn Badge -->
 <p align="center">
