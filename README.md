@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Sonu Abraham</h1>
 <h3 align="center"> Data Enthusiast | UofT DSI </h3>
  :woman_technologist: &nbsp;**About Me:**
- <p align="center"><strong>About Me:</strong></p>
+ <p align="center"><strong>**About Me:**</strong></p>
 
 <!-- Subheading that Describes Roles and Interests -->
 
